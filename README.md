@@ -1,12 +1,11 @@
 
 <p align="center"> Hi, there 👋 I'm <strong>Yujeong Lee.</strong></p>
-<br/>
 
-<h3 align="center">My Tech Stack 🛠</h3>
-<br/>
+<h3 align="center">Tech Stack 🛠</h3>
+
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white"/>  <br/>
 <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=JavaScript&logoColor=black"/>
@@ -17,6 +16,7 @@
 
 </div>
 
+<br/>
 <br/>
 <div align="center">
 
