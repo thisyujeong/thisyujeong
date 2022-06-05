@@ -1,5 +1,5 @@
 ### Yujeong Lee.
-I Experience It, And If I Like It, I Continue.
+I experience it, and if i like it, i continue.
 
 <sup>I'm a publisher, who'll be the front-end developer.</sup>
 
@@ -20,8 +20,7 @@ I Experience It, And If I Like It, I Continue.
    <img src="https://img.shields.io/badge/thisyujeong.com-ff7145?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>   
 </a>
 
-<br/>
-<br/>
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthisyujeong&count_bg=%23999999&title_bg=%23999999&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
