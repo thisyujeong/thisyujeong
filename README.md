@@ -1,6 +1,6 @@
 ### Yujeong Lee.
 I experience it, and if i like it, i continue.
-
+<br/>
 <sup>I'm a publisher, who'll be the front-end developer.</sup>
 
 **stacks**
