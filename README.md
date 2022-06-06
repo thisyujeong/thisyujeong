@@ -16,6 +16,12 @@ I experience it, and if i like it, i continue.
 <a href="https://thisyujeong.dev">
   <img src="https://img.shields.io/badge/thisyujeong.dev-2a75e9?style=flat-square&logo=Bloglovin&logoColor=white"/>
 </a>
+
+<br/>
+
+<a href="https://stump-lunch-8bd.notion.site/cd6682f659da43e1915fc4efdb325508">
+   <img src="https://img.shields.io/badge/Resume-667881?style=flat-square&logo=Riseup&logoColor=white"/>   
+</a>
 <a href="https://thisyujeong.com">
    <img src="https://img.shields.io/badge/thisyujeong.com-ff7145?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>   
 </a>
