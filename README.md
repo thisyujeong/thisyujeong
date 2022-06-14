@@ -19,7 +19,7 @@ I experience it, and if i like it, i continue.
 
 <br/>
 
-<a href="https://stump-lunch-8bd.notion.site/cd6682f659da43e1915fc4efdb325508">
+<a href="https://stump-lunch-8bd.notion.site/6cee37f26e104d5b8f98edbe68e2bd77">
    <img src="https://img.shields.io/badge/Resume-667881?style=flat-square&logo=Riseup&logoColor=white"/>   
 </a>
 <a href="https://thisyujeong.com">
